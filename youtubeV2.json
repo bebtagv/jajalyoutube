@@ -1,0 +1,147 @@
+ { "Ads": [
+    {
+      "api_key_youtube":"",
+      "api_key_youtube2":"",
+      "api_key_youtube3":"",
+      "api_key_youtube4":"",
+      "api_key_youtube5":"",
+      "playlist_id":"",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More": [
+     {
+       "id": 1,
+       "title": "IQ Test vs The Moron Test",
+       "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+     },
+     {
+       "id": 2,
+       "title": "Skins Editor for Minecraft PE",
+       "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+     },
+     {
+       "id": 3,
+       "title": "Nova Skin for Minecraft PE",
+       "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+     },
+     {
+       "id": 4,
+       "title": "Scanner Document App - HD PDF",
+       "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+     },
+     {
+       "id": 6,
+       "title": "Super Math Solver Calculator",
+       "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+     },
+     {
+       "id": 8,
+       "title": "Twibbon Maker",
+       "image": "https://play-lh.googleusercontent.com/vWOasJ4H36nY_SrjN8NV-NOjv-9szW7LsK7lher6Ri7IdZ0o243CCLkM51ZB3owWJUI=s180-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+     },
+     {
+       "id": 9,
+       "title": "Kamus Bahasa Indonesia",
+       "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+     },
+     {
+       "id": 10,
+       "title": "Data Gempabumi Terbuka",
+       "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+     },
+     {
+       "id": 11,
+       "title": "Ayo Shalat",
+       "image": "https://play-lh.googleusercontent.com/nsBJYFJLJFlXwKBsZuEUhrh6wzjFXOyLsPpM6yS68jEJyk29KdzcTIh057qSEceyBQ=s180-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.ayosholat"
+     }
+  ],
+   "Video": [
+     {
+       "id": 1,
+       "name_category": "KHB",
+       "title": "Shahih At-Targhib wa At-Tarhib - Anjuran Sholat Sunnah Rawatib",
+       "description": "Jannatul Firdaus yaitu surga yang terbuat dari emas merah. Jannatul 'Adn yaitu surga yang terbuat dari intan putih. Jannatun Na'iim yaitu surga yang terbuat dari perak putih. Jannatul Khuldi yaitu surga yang terbuat dari marjan yang berwarna merah dan kuning",
+       "image": "file:///android_asset/khbikon.jpeg",
+       "videoid": "vgKn8jpCiFI"
+     },
+     {
+       "id": 2,
+       "name_category": "KHB",
+       "title": "Al-Adab Al-Mufrad - Orang Mukmin Bukanlah yang Suka Mencela",
+       "description": "Dan janganlah suka mencela dirimu sendiri dan jangan memanggil dengan Seburuk-buruk panggilan adalah (panggilan) yang buruk sesudah iman dan Jelaslah dalam ayat ini Allah mengharamkan perbuatan mencela orang lain",
+       "image": "null",
+       "videoid": "pEbHFlUD-3E"
+     },
+     {
+       "id": 3,
+       "name_category": "KHB",
+       "title": "Hadits Qudsi - Keutamaan Sholat-Sholat Sunnah",
+       "description": "Salat sunah atau salat nawafil (jamak: nafilah) adalah salat yang dianjurkan untuk dilaksanakan namun tidak diwajibkan sehingga tidak berdosa bila ditinggalkan dengan kata lain apabila dilakukan dengan baik dan benar serta penuh ke ikhlasan akan tampak hikmah dan rahmat dari Allah SWT yang begitu indah.",
+       "image": "null",
+       "videoid": "97iChvHJu9A"
+     },
+     {
+       "id": 4,
+       "name_category": "Shift",
+       "title": "Ust. Hanan Attaki - Tips Kelola Keuangan Agar Makin Berkah Ala Rasulullah",
+       "description": "dan janganlah kamu menghambur-hamburkan (hartamu) secara boros. Sesungguhnya pemboros-pemboros itu adalah saudara-saudara syaitan dan syaitan itu adalah sangat ingkar kepada Rabbnya.",
+       "image": "https://i.ytimg.com/vi/z-dp3_eHH7s/maxresdefault.jpg",
+       "videoid": "z-dp3_eHH7s"
+     },
+     {
+       "id": 5,
+       "name_category": "Shift",
+       "title": "Ustadz Nur Ihsan Jundullah - Bersama Kesulitan Ada Kemudahan",
+       "description": "Salah satu ujian dari Allah untuk menaikkan derajat ketaqwaan manusia adalah dengan ditimpakan musibah atau cobaan.",
+       "image": "null",
+       "videoid": "rrxVVOE1FzE"
+     },
+     {
+       "id": 6,
+       "name_category": "Yufid Tv",
+       "title": "Pewaris yang Masih dalam Kandungan Bagian 2 - Ustadz Ahmad Firdaus Lc.- Fiqih Warisan 59",
+       "description": "Waris menurut hukum Islam adalah hukum yang mengatur tentang peralihan harta kekayaan yang ditinggalkan seseorang yang meninggal serta akibatnya bagi para ahli warisnya",
+       "image": "null",
+       "videoid": "qpErn3XB13Y"
+     },
+     {
+       "id": 7,
+       "name_category": "AHO",
+       "title": "Laporan Hasil Audit Donasi Palestina - Ustadz Adi Hidayat",
+       "description": "Sebarkan seluas-luasnya  kebaikan dengan share video ini, subscribe channel dan aktifkan notifikasi untuk mendapatkan ilmu dan informasi terbaru dari Ustadz Adi Hidayat, Lc., MA. ( UAH )",
+       "image": "null",
+       "videoid": "HDxLrreup7o"
+     }
+   ]
+}
